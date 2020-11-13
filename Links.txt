@@ -1,0 +1,15 @@
+65 questions in 90  minutes
+
+AWS CP training videos:  https://www.aws.training/Details/Curriculum?id=27076
+
+cloud deployment models;  https://www.rishabhsoft.com/blog/basics-of-cloud-computing-deployment-and-service-models
+Shared responsibility model:  https://www.youtube.com/watch?v=Gjbz3EkhNcY
+
+AWS Detective: https://aws.amazon.com/detective/features/
+
+
+https://aws.amazon.com/premiumsupport/technology/trusted-advisor/best-practice-checklist/
+
+AWS architec frame work:
+
+https://wa.aws.amazon.com/wat.pillar.security.en.html#:~:text=In%20AWS%2C%20you%20can%20implement,AWS%20Config%20provides%20configuration%20history.
