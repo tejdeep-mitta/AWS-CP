@@ -13,3 +13,9 @@ https://aws.amazon.com/premiumsupport/technology/trusted-advisor/best-practice-c
 AWS architec frame work:
 
 https://wa.aws.amazon.com/wat.pillar.security.en.html#:~:text=In%20AWS%2C%20you%20can%20implement,AWS%20Config%20provides%20configuration%20history.
+
+
+
+
+
+added to check
